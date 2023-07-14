@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\PSAula04-Exercicio\bin\Debug\PSAula04-Exercicio.exe.config
+C:\Users\DELL\source\repos\PSAula04-Exercicio\bin\Debug\PSAula04-Exercicio.exe
+C:\Users\DELL\source\repos\PSAula04-Exercicio\bin\Debug\PSAula04-Exercicio.pdb
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04_Exercicio.Form1.resources
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04_Exercicio.Properties.Resources.resources
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.exe
+C:\Users\DELL\source\repos\PSAula04-Exercicio\obj\Debug\PSAula04-Exercicio.pdb
